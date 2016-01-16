@@ -31,3 +31,6 @@ C:\Users\nsarafia\Google Drive\סמסטר ה\ניתוץ\WorkIt\WorkIt\obj\Debug\
 C:\Users\nsarafia\Google Drive\סמסטר ה\ניתוץ\WorkIt\WorkIt\obj\Debug\View\PotentialCustomers.baml
 C:\Users\nsarafia\Google Drive\סמסטר ה\ניתוץ\WorkIt\WorkIt\obj\Debug\View\Purchases.baml
 C:\Users\nsarafia\Google Drive\סמסטר ה\ניתוץ\WorkIt\WorkIt\obj\Debug\View\Stock.baml
+C:\Users\azaltzma\Desktop\Nituz5_1\WorkIt\WorkIt\bin\Debug\WorkIt.exe.config
+C:\Users\azaltzma\Desktop\Nituz5_1\WorkIt\WorkIt\obj\Debug\WorkIt.exe
+C:\Users\azaltzma\Desktop\Nituz5_1\WorkIt\WorkIt\obj\Debug\WorkIt.pdb
